@@ -135,6 +135,7 @@ decay = 1.0 # Decay rate
 iters = 50000 # Number of iterations
 
 # Run Q-learning algorithm to find optimal policy
+np.random.seed(1)
 q = mdp.QLearning(T, R, gamma, alpha, eps, decay, iters)
 q.run()
 

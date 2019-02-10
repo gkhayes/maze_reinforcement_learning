@@ -4,7 +4,7 @@
 This code was written for Python 3 and requires the following packages: Numpy, Math, Time and Scipy.
 
 ## Overview
-This repository contains the code used to solve the maze reinforcement learning problem described [here](). It uses the Q-learning algorithm with an epsilon-greedy exploration strategy.
+This repository contains the code used to solve the maze reinforcement learning problem described [here](https://medium.com/@gkhayes/the-other-type-of-machine-learning-97ab81306ce9). It uses the Q-learning algorithm with an epsilon-greedy exploration strategy.
 
 ## File Descriptions
 The Python file intro_to_rl_example.py contains the code used to define and solve the reinforcement learning problem. 
